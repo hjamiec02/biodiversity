@@ -1,0 +1,10 @@
+/* my css style sheet*/
+ 
+/* Add an image to jumbotron */
+.jumbotron {
+    color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url("../images/1920px-Cow_female_black_white.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}
